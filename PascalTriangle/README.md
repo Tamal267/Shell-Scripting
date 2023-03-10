@@ -4,6 +4,7 @@ $ chmod +x triangle.sh && ./triangle.sh
 Interface of input 5
 
 Enter the size of the Pascal Triangle: 5
+
 1         
 1         1         
 1         2         1         
